@@ -1,5 +1,5 @@
 # clustering
-Clustering historical financial time series of returns into 3 regimes
+Clustering historical financial time series of returns into 3 regimes\
 PCA used to explore the meaning of the clusters
 
 Dependencies:
